@@ -6,5 +6,5 @@ z.B. ein Login-System mit Datenbank und Benutzerverwaltung (Django) oder eine sc
 
 
 Grund: Streamlit ist ideal für einfache, schnelle UI ohne viel Backend-Setup, während Django/FastAPI für skalierbare, robuste Anwendungen gedacht sind.
-Link:
+Link für Streamlit-App:
 https://meine-erste-app.streamlit.app/
